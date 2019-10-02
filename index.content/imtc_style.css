@@ -1,0 +1,191 @@
+* { 
+            font-size: 100%; 
+            font-family: Arial; 
+            }
+h1, h2, h3, h4, h5, h6 {float: left; width: 1000px;}
+h1 {color: #000000;
+            font-family: Arial;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: bold;
+            vertical-align: top;
+            text-align: center;
+            text-decoration: none;}
+h2 {color: #000000;
+            font-family: Arial;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: bold;
+            vertical-align: top;
+            text-align: center;
+            text-decoration: none;}
+td.header-left {text-align: left;}
+td.header-center {text-align: center;}
+td.header-right {text-align: right;}
+td.header-left, td.header-center, td.header-right {color: #808080;
+            font-family: Arial;
+            font-size: 9px;
+            font-style: normal;
+            font-weight: normal;
+            vertical-align: top;
+            text-decoration: none;}
+td.footer-left {float: left; text-align: left;}
+td.footer-center {overflow: hidden; text-align: center;}
+td.footer-right {float: right; text-align: right;}
+td.footer-left, td.footer-center, td.footer-right {color: #808080;
+            font-family: Arial;
+            font-size: 9px;
+            font-style: normal;
+            font-weight: normal;
+            vertical-align: top;
+            text-decoration: none;}
+.extras {color: #000000;
+            font-family: Arial;
+            font-size: 8px;
+            font-style: normal;
+            font-weight: normal;
+            vertical-align: top;
+            text-align: left;
+            text-decoration: none;}
+#subject-title {float: left; width: 1000px;color: #000000;
+            font-family: Arial;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: bold;
+            vertical-align: top;
+            text-align: center;
+            text-decoration: underline;}
+#section-title {float: left; width: 1000px;color: #000000;
+            font-family: Arial;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: bold;
+            vertical-align: top;
+            text-align: left;
+            text-decoration: underline;}
+#detail-title {color: #000000;
+            font-family: Arial;
+            font-size: 10px;
+            font-style: normal;
+            font-weight: bold;
+            vertical-align: top;
+            text-align: left;
+            text-decoration: none;}
+#detail-caption {color: #000000;
+            font-family: Arial;
+            font-size: 9px;
+            font-style: normal;
+            font-weight: bold;
+            vertical-align: top;
+            text-align: left;
+            text-decoration: none;}
+#detail-content {color: #000000;
+            font-family: Arial;
+            font-size: 9px;
+            font-style: normal;
+            font-weight: normal;
+            vertical-align: top;
+            text-align: left;
+            text-decoration: none;}
+table.tbl_card_props {
+                width: 1000px;
+                border-width: 1px;
+                border-color: SlateGray;
+                border-collapse: collapse;
+            }
+            table.tbl_card_props th {color: #000000;
+            font-family: Arial;
+            font-size: 10px;
+            font-style: normal;
+            font-weight: bold;
+            vertical-align: top;
+            text-align: left;
+            text-decoration: none;
+                border-width: 1px;
+                padding: 4px;
+                border-style: solid;
+                border-color: #D3D3D3;
+                background-color: #F5F5F5;
+            }
+            table.tbl_card_props td {color: #000000;
+            font-family: Arial;
+            font-size: 10px;
+            font-style: normal;
+            font-weight: normal;
+            vertical-align: top;
+            text-align: left;
+            text-decoration: none;
+                border-width: 1px;
+                padding: 4px;
+                border-style: solid;
+                border-color: #D3D3D3;
+                background-color: #FFFFFF;
+            }
+table.tbl_list_objects {
+                width: 1000px;
+                border-width: 1px;
+                border-color: SlateGray;
+                border-collapse: collapse;
+            }
+            table.tbl_list_objects th {color: #000000;
+            font-family: Arial;
+            font-size: 10px;
+            font-style: normal;
+            font-weight: bold;
+            vertical-align: top;
+            text-align: center;
+            text-decoration: none;
+                border-width: 1px;
+                padding: 4px;
+                border-style: solid;
+                border-color: #D3D3D3;
+                background-color: #F5F5F5;
+            }
+            table.tbl_list_objects td {color: #000000;
+            font-family: Arial;
+            font-size: 10px;
+            font-style: normal;
+            font-weight: normal;
+            vertical-align: top;
+            text-align: left;
+            text-decoration: none;
+                border-width: 1px;
+                padding: 4px;
+                border-style: solid;
+                border-color: #D3D3D3;
+                background-color: #FFFFFF;
+            }
+table.tbl_dettbl_records {
+                min-width: 1000px;
+                border-width: 1px;
+                border-color: SlateGray;
+                border-collapse: collapse;
+            }
+            table.tbl_dettbl_records th {color: #000000;
+            font-family: Arial;
+            font-size: 9px;
+            font-style: normal;
+            font-weight: bold;
+            vertical-align: top;
+            text-align: left;
+            text-decoration: none;
+                border-width: 1px;
+                padding: 4px;
+                border-style: solid;
+                border-color: #D3D3D3;
+                background-color: #F5F5F5;
+            }
+            table.tbl_dettbl_records td {color: #000000;
+            font-family: Arial;
+            font-size: 9px;
+            font-style: normal;
+            font-weight: normal;
+            vertical-align: top;
+            text-align: left;
+            text-decoration: none;
+                border-width: 1px;
+                padding: 4px;
+                border-style: solid;
+                border-color: #D3D3D3;
+                background-color: #FFFFFF;
+            }
